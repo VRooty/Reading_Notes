@@ -1,12 +1,12 @@
-# Reading_Notes
+# Victoria Rooney
 
-## More Reading
+## PhD in Classics and Ancient History
 
-## What can we do with Markdown?
+### What languages can you study with Vicky?
 
-- Add lists
-- Add Headers
-- Add bullet points
-      - Add nested lists
+- Latin
+- Greek
+- Sanskrit
+- Egyptian Hieroglyphic
 
-#### Even More
+
