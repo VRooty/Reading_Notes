@@ -9,3 +9,11 @@ Growth mindset is the understanding that intelligence (that is, the individual's
 1. Do a little each day
 2. Remember the words of Odysseus: "Patience, my heart. You have been through fouler than this."
 3. Remember why you're doing this.
+
+### Feeling LOST is how you find the best PATH
+
+- Close your eyes
+- Take a deep breath
+- Remember Google is always there
+
+![alt text](http://![Alt text](image.png))
