@@ -1,4 +1,5 @@
 # Victoria Rooney
+Find out more of my code at <https://github.com/VRooty>
 
 ## What is GROWTH MINDSET?
 
