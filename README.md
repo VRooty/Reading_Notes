@@ -16,4 +16,4 @@ Growth mindset is the understanding that intelligence (that is, the individual's
 - Take a deep breath
 - Remember Google is always there
 
-![alt text](http://![Alt text](image.png))
+(http://![Alt text](image.png))
